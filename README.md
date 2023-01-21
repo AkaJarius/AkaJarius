@@ -1,12 +1,12 @@
-###  Bem vindo ao meu GitHub, eu sou o Jairo!
+### Bem vindo ao meu GitHub, eu sou o Jairo!
 
 <div>
   <a href="https://github.com/AkaJarius">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AkaJarius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaJarius&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AkaJarius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaJarius&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### <b>:brain: &nbsp;Aprendendo:</b></summary><br/>
+### <b>:brain: &nbsp;Evoluindo em:</b></summary><br/>
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
