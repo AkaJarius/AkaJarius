@@ -28,4 +28,6 @@
  	<a href="https://www.twitch.tv/akajarius" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pB6tGAAD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://www.playstation.com/pt-br/profile/akajarius" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/AkaJarius/AkaJarius/blob/output/github-contribution-grid-snake.svg)
 </div>
