@@ -1,9 +1,9 @@
 ###  Bem vindo ao meu GitHub, eu sou o Jairo!
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/AkaJarius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkaJarius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaJarius&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AkaJarius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaJarius&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### <b>:brain: &nbsp;Aprendendo:</b></summary><br/>
