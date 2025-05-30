@@ -6,7 +6,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaJarius&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### <b>:brain: &nbsp;Evoluindo em:</b></summary><br/>
+### <b>:brain: &nbsp; Tecnologias:</b></summary><br/>
 <div>
   <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
